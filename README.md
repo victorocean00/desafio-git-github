@@ -6,10 +6,10 @@ Este repositório foi desenvolvido como parte do **Desafio de Entrega Intermedi�
 
 O repositório está organizado da seguinte forma:
 
+-   `index.html`: Página principal do portfólio (exibida automaticamente pelo GitHub Pages).
 -   `/projetos-academicos`: Repositório para trabalhos e desafios realizados durante o curso.
 -   `/projetos-pessoais`: Espaço para projetos autorais e experimentações.
 -   `/documentacao`: Arquivos de planejamento, guias e referências.
--   `/projeto-inicial`: Uma página web simples (HTML/CSS) que serve como demonstração inicial.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -22,7 +22,7 @@ O repositório está organizado da seguinte forma:
 
 Este projeto segue as boas práticas de versionamento:
 -   **v1.0**: Estrutura inicial e página web básica.
--   **Atualizações**: Inclusão de documentação e melhorias na organização.
+-   **v1.1**: Ajuste de estrutura para suporte ao GitHub Pages.
 
 ## 🔗 Links Úteis
 
