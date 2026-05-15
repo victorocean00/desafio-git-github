@@ -27,7 +27,7 @@ Este projeto segue as boas práticas de versionamento:
 ## 🔗 Links Úteis
 
 -   [Página do Projeto (GitHub Pages)](#) *(Link será atualizado após a publicação)*
--   [Meu LinkedIn](www.linkedin.com/in/victor-gabriel-costa-da-silva-a301633a5)
+-   [Meu LinkedIn][www.linkedin.com/in/victor-gabriel-costa-da-silva-a301633a5]
 
 ---
 Desenvolvido por [Victor gabirel costa da silva] - 2026
