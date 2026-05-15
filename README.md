@@ -26,7 +26,7 @@ Este projeto segue as boas práticas de versionamento:
 
 ## 🔗 Links Úteis
 
--   [Página do Projeto (GitHub Pages)](#) *(Link será atualizado após a publicação)*
+-   [Página do Projeto (GitHub Pages)](#) *( https://victorocean00.github.io/desafio-git-github/)*
 -   [Meu LinkedIn][www.linkedin.com/in/victor-gabriel-costa-da-silva-a301633a5]
 
 ---
